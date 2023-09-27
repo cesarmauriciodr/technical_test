@@ -1,5 +1,7 @@
 # Test de Evaluación 
-** Tiempo de creacion 3 Horas **
+
+**Proyecto fue creado y desarrollado en menos de 3 Horas todos los faltantes y caracteristicas estan en la documentación**
+
 La idea es proporcionar una solución que los clientes puedan utilizar para obtener información de un archivo CSV y crear una API para visualizar los datos.
 
 El sistema consta de dos partes:
