@@ -11,15 +11,15 @@ El sistema consta de dos partes:
 
 ## Contenido
 
-### Carpeta "data/"
+### Carpeta "docs/"
 
-En la carpeta "data/" encontrarás tres archivos importantes de documentacion y explicacion:
+En la carpeta "docs/" encontrarás tres archivos importantes de documentacion y explicacion:
 
-1. **README_system_module_1.md**: Este archivo contiene la documentacion del modulo `system_module_1`
+1. **[README_system_module_1.md](docs/README_system_module_1.md)**: Este archivo contiene la documentacion del modulo `system_module_1`
 
-2. **README_system_module_2.md**: Este archivo contiene la documentacion del modulo `system_module_2`
+2. **[README_system_module_2.md](docs/README_system_module_2.md)**: Este archivo contiene la documentacion del modulo `system_module_2`
 
-3. **README_tecnical_test.md**: Este archivo contiene la descripción de la prueba 
+3. **[README_tecnical_test.md](docs/README_tecnical_test.md)**: Este archivo contiene la descripción de la prueba 
 
 
 # Manual de Instalación y Ejecución
