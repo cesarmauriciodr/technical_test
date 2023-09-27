@@ -65,10 +65,6 @@ El sistema se ejecutará y comenzará a realizar sus tareas.
 Finalización del Sistema
 Para finalizar la ejecución del sistema, simplemente cierra la terminal o línea de comandos en la que se está ejecutando.
 
-    ```bash
-    Esta es la sección específica sobre la ejecución y finalización del sistema en formato Markdown. Puedes integrarla en tu manual de instalación y ejecución o utilizarla según tus necesidades.
-    ```
-
 
 ## Acerca de Cesar Mauricio Dueñas Ruiz
 
